@@ -1,0 +1,4 @@
+DATASET-1) (f)
+Accuracy on Training dataset: 83.61266294227188 %
+Accuracy on Testing dataset: 77.08333333333334 %
+Accuracy on Validation dataset: 84.44444444444444 %

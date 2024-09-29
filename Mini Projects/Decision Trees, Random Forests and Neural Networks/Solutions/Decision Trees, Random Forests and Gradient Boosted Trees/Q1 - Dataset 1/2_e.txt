@@ -1,0 +1,48 @@
+DATASET-1) (e)
+Dataset-1) (a) MEDIAN MODEL
+Accuracy on Training dataset: 91.80633147113593 %
+Accuracy on Testing dataset: 73.61111111111111 %
+Accuracy on Validation dataset: 73.33333333333333 %
+Dataset-1) (a) MODE MODEL
+Accuracy on Training dataset: 90.68901303538175 %
+Accuracy on Testing dataset: 71.52777777777779 %
+Accuracy on Validation dataset: 76.29629629629629 %
+-------------------------------------------
+q1(e)(a) done
+-------------------------------------------
+
+q1) (b) MEDIAN MODEL
+Accuracy on Training dataset: 82.30912476722533 %
+Accuracy on Testing dataset: 80.20833333333334 %
+Accuracy on Validation dataset: 85.92592592592592 %
+q1) (b) MODE MODEL
+Accuracy on Training dataset: 81.75046554934823 %
+Accuracy on Testing dataset: 76.04166666666666 %
+Accuracy on Validation dataset: 85.92592592592592 %
+-------------------------------------------
+q1(e)(b) done
+-------------------------------------------
+
+q1) (c) MEDIAN MODEL
+Training Accuracy:80.26070763500931
+Testing Accuracy:79.16666666666666
+Validation Accuracy:87.4074074074074
+q1) (c) MODE MODEL
+Training Accuracy:89.01303538175046
+Testing Accuracy:75.34722222222221
+Validation Accuracy:88.14814814814815
+-------------------------------------------
+q1(e)(c) done
+-------------------------------------------
+
+q1) (d) MEDIAN MODEL
+Accuracy on Training dataset: 91.80633147113593 %
+Accuracy on Testing dataset: 76.38888888888889 %
+Accuracy on Validation dataset: 82.22222222222221 %Out-Of-Bag Accuracy: 72.8119180633147 %
+q1) (d) MODE MODEL
+Accuracy on Training dataset: 90.68901303538175 %
+Accuracy on Testing dataset: 74.65277777777779 %
+Accuracy on Validation dataset: 79.25925925925927 %Out-Of-Bag Accuracy: 71.50837988826815 %
+-------------------------------------------
+q1(e)(d) done
+-------------------------------------------

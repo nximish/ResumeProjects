@@ -1,0 +1,193 @@
+2)
+(a) [784,5,10]
+Accuracy: 60.96666666666667
+
+
+Accuracy: 61.86666666666667
+
+
+Accuracy: 61.916666666666664
+
+[784,10,10]
+Accuracy: 50.266666666666666
+
+
+Accuracy: 50.266666666666666
+
+
+Accuracy: 50.266666666666666
+
+
+[784,15,10]
+Accuracy: 16.866666666666667
+
+
+Accuracy: 16.866666666666667
+
+
+Accuracy: 16.866666666666667
+
+
+Accuracy: 16.866666666666667
+
+
+Accuracy: 16.866666666666667
+
+[784,20,10]
+Accuracy: 5.433333333333334
+
+
+Accuracy: 5.433333333333334
+
+
+Accuracy: 5.433333333333334
+
+
+[784,25,10]
+Accuracy: 61.68333333333333
+
+
+Accuracy: 61.46666666666667
+
+
+Accuracy: 59.78333333333333
+
+
+Accuracy: 61.45
+
+
+Accuracy: 61.68333333333333
+
+
+Accuracy: 60.9
+
+
+Accuracy: 61.31666666666667
+
+
+Accuracy: 61.21666666666667
+
+
+Accuracy: 60.35
+
+
+
+1) Dataset - 2
+(b)
+DecisionTreeClassifier(max_depth=100) 0.4233712403018387
+Accuracy on Training dataset: 96.68845431678889 %
+Accuracy on Testing dataset: 56.55060819105011 %
+Accuracy on Validation dataset: 56.55210895038129 %
+
+
+0.4,6
+
+
+1) Dataset - 1
+(d)
+Accuracy on Training dataset: 92.32456140350878 %
+Accuracy on Testing dataset: 74.70355731225297 %
+Accuracy on Validation dataset: 80.99173553719008 %
+(e)
+MEDIAN
+(a)
+Accuracy on Training dataset: 91.80633147113593 %
+Accuracy on Testing dataset: 73.95833333333334 %
+Accuracy on Validation dataset: 73.33333333333333 %
+(b)
+Accuracy on Training dataset: 82.30912476722533 %
+Accuracy on Testing dataset: 80.20833333333334 %
+Accuracy on Validation dataset: 85.92592592592592 %
+(c) 
+
+MODE
+(a)
+Accuracy on Training dataset: 90.68901303538175 %
+Accuracy on Testing dataset: 71.18055555555556 %
+Accuracy on Validation dataset: 76.29629629629629 %
+(b)
+Accuracy on Training dataset: 81.75046554934823 %
+Accuracy on Testing dataset: 76.04166666666666 %
+Accuracy on Validation dataset: 85.92592592592592 %
+
+
+
+
+
+
+
+
+
+
+Q1) E
+
+
+
+q1) (a) MEDIAN MODEL
+
+Accuracy on Training dataset: 91.80633147113593 %
+Accuracy on Testing dataset: 72.91666666666666 %
+Accuracy on Validation dataset: 73.33333333333333 %
+
+q1) (a) MODE MODEL
+
+Accuracy on Training dataset: 90.68901303538175 %
+Accuracy on Testing dataset: 70.83333333333334 %
+Accuracy on Validation dataset: 76.29629629629629 %
+
+q1(e)(a) done
+
+
+q1) (b) MEDIAN MODEL
+
+DecisionTreeClassifier(max_depth=5, min_samples_split=10) 0.7802699896157841
+Accuracy on Training dataset: 82.30912476722533 %
+Accuracy on Testing dataset: 80.20833333333334 %
+Accuracy on Validation dataset: 85.92592592592592 %
+
+q1) (b) MODE MODEL
+
+DecisionTreeClassifier(max_depth=5, min_samples_leaf=2, min_samples_split=6) 0.756092073381793
+Accuracy on Training dataset: 81.75046554934823 %
+Accuracy on Testing dataset: 76.04166666666666 %
+Accuracy on Validation dataset: 85.92592592592592 %
+
+q1(e)(b) done
+
+
+q1) (c) MEDIAN MODEL
+
+
+Training Accuracy: 80.26071 %
+Testing Accuracy: 79.16667 %
+Validation Accuracy: 87.40741 %
+
+q1) (c) MODE MODEL
+
+
+Training Accuracy: 89.01304 %
+Testing Accuracy: 75.34722 %
+Validation Accuracy: 88.14815 %
+
+
+q1(e)(c) done
+
+q1) (d) MEDIAN MODEL
+Accuracy on Training dataset: 91.80633147113593 %
+Accuracy on Testing dataset: 75.69444444444444 %
+Accuracy on Validation dataset: 82.96296296296296 %
+Out-Of-Bag Accuracy: 72.8119180633147%
+
+q1) (d) MODE MODEL
+Accuracy on Training dataset: 90.68901303538175 %
+Accuracy on Testing dataset: 74.65277777777779 %
+Accuracy on Validation dataset: 82.22222222222221 %
+Out-Of-Bag Accuracy: 72.06703910614524%
+
+q1(e)(d) done
+
+
+Q1) (F)
+Accuracy on Training dataset: 83.61266294227188 %
+Accuracy on Testing dataset: 77.08333333333334 %
+Accuracy on Validation dataset: 84.44444444444444 %

@@ -1,0 +1,5 @@
+DATASET-1) (d)
+Accuracy on Training dataset: 92.32456140350878 %
+Accuracy on Testing dataset: 75.09881422924902 %
+Accuracy on Validation dataset: 82.64462809917356 %
+Out-Of-Bag Accuracy: 74.3421052631579 %

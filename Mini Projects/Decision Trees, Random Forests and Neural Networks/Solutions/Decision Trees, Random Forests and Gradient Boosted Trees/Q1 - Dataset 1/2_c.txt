@@ -1,0 +1,4 @@
+DATASET-1) (c)
+Training Accuracy:80.92105263157895
+Testing Accuracy:75.8893280632411
+Validation Accuracy:89.25619834710744
